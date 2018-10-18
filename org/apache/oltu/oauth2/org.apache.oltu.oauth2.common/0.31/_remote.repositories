@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 17 18:28:52 BST 2018
+org.apache.oltu.oauth2.common-0.31.jar>central=
+org.apache.oltu.oauth2.common-0.31.pom>central=
